@@ -350,5 +350,8 @@ The simulation starts with individual employees and simple behavior rules. Throu
 
 The sensitivity analysis shows that increasing rumor probability usually increases the peak number of rumor spreaders. It also shows that 10 repetitions are usually more stable than 5 repetitions because they reduce the effect of randomness.
 
-Overall, the project shows how agent based modeling can be used to understand organizational behavior and how small individual decisions can create important company-level outcomes.
+Overall, the project shows how agent based modeling can be used to understand organizational behavior and how small individual decisions can create important company level outcomes.
+## Author
+
+**Abdelrahman Ali**
 
