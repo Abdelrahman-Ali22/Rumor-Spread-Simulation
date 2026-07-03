@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project performs an agent-based simulation of rumor spreading inside a company. The main focus of the simulation is to show how a rumor can spread between employees through local interactions, probability-based decisions, and random contact patterns.
+This project performs an agent-based simulation of rumor spreading inside a company. The main focus of the simulation is to show how a rumor can spread between employees through local interactions, probability based decisions and random contact patterns.
 
-Employees are represented as individual agents located inside a circular company space. Each employee can be in one of three states: unaware, rumor spreader, or resistant.
+Employees are represented as individual agents located inside a circular company space. Each employee can be in one of three states: unaware, rumor spreader or resistant.
 
 The project was completed as part of the Business Simulations assignment. The simulation includes animation, interactive sliders, a reset button, sensitivity analysis, and comparison between 5 and 10 simulation repetitions.
 
@@ -221,7 +221,7 @@ For each value, the model calculates average results for:
 
 The purpose of the sensitivity analysis is to show how randomness affects the results.
 
-Because this is an agent-based model, one simulation run may not represent the general behavior. Random positions, random initial spreaders, random contacts, and random recovery decisions can all affect the final result.
+Because this is an agent based model, one simulation run may not represent the general behavior. Random positions, random initial spreaders, random contacts, and random recovery decisions can all affect the final result.
 
 Using more repetitions gives smoother and more reliable average results.
 
@@ -350,13 +350,5 @@ The simulation starts with individual employees and simple behavior rules. Throu
 
 The sensitivity analysis shows that increasing rumor probability usually increases the peak number of rumor spreaders. It also shows that 10 repetitions are usually more stable than 5 repetitions because they reduce the effect of randomness.
 
-Overall, the project shows how agent-based modeling can be used to understand organizational behavior and how small individual decisions can create important company-level outcomes.
+Overall, the project shows how agent based modeling can be used to understand organizational behavior and how small individual decisions can create important company-level outcomes.
 
-## Author
-
-**Abdelrahman Ali**  
-Student ID: **294483**
-
-## License
-
-This project is for academic use.
